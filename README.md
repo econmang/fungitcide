@@ -4,7 +4,7 @@ Fungitcide is a terminal user interface (TUI) to aid in management of git-relate
 
 ### Why the name?
 
-Since Rust is named after a fungus, I thought to create a package called that sounded like fungicide and allowed me to use the command `fungit` to start-up.
+Since Rust is named after a fungus, I thought to create a package with a name that sounded like fungicide and allowed me to use the command `fungit` to launch.
 
 
 ### Inspiration
